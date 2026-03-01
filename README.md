@@ -1,4 +1,4 @@
-# Streamlit TicketAssist & RAG LLM HelpDesk
+# AI Voice and LLM-Powered HelpDesk Platform
 Help_Desk and Ticket_management and Rag LLM HelpBot is a comprehensive system designed to streamline ticket management and enhance customer support through AI automation. The system allows users to efficiently create, update, and search tickets, improving organizational efficiency. Integration of Langchain (LLM) and Python facilitates an AI-powered chatbot that offers automated customer support. This integration enhances responsiveness and interaction quality, providing users with timely assistance and resolving queries effectively.
 
 ## Files
